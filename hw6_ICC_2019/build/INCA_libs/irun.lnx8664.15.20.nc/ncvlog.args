@@ -1,0 +1,28 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-XLMODE
+./INCA_libs/irun.lnx8664.15.20.nc
+-RUNMODE
+/home/alan/ICC_Graduated/hw6_ICC_2019/sim/testfixture.v
+/home/alan/ICC_Graduated/hw6_ICC_2019/syn/CONV_syn.v
+-VFILE
+/home/alan/ICC_Graduated/hw6_ICC_2019/sim/fsa0m_a_generic_core_21.lib.src
+-DEFINE
+SHM_FILE=\"CONV.shm\"
+-DEFINE
+FSDB_FILE=\"CONV.fsdb\"
+-DEFINE
+SDF
+-DEFINE
+SDFFILE=\"/home/alan/ICC_Graduated/hw6_ICC_2019/syn/CONV_syn.sdf\"
+-CDSLIB
+./INCA_libs/irun.lnx8664.15.20.nc/cdsrun.lib
+-HDLVAR
+./INCA_libs/irun.lnx8664.15.20.nc/hdlrun.var
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+./INCA_libs/irun.lnx8664.15.20.nc/xllibs
+-ALLOWUNBOUND

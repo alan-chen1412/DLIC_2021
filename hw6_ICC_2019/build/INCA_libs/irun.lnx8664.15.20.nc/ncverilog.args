@@ -1,0 +1,14 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+/home/alan/ICC_Graduated/hw6_ICC_2019/sim/testfixture.v
+/home/alan/ICC_Graduated/hw6_ICC_2019/syn/CONV_syn.v
+-v
+/home/alan/ICC_Graduated/hw6_ICC_2019/sim/fsa0m_a_generic_core_21.lib.src
++nc64bit
++access+r
++define+SHM_FILE=\"CONV.shm\"
++define+FSDB_FILE=\"CONV.fsdb\"
++define+SDF
++define+SDFFILE=\"/home/alan/ICC_Graduated/hw6_ICC_2019/syn/CONV_syn.sdf\"

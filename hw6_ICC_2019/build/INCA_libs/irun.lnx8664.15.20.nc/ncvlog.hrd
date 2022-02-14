@@ -1,0 +1,14 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-VFILE
+/home/alan/ICC_Graduated/hw6_ICC_2019/sim/fsa0m_a_generic_core_21.lib.src
+-DEFINE
+SHM_FILE=\"CONV.shm\"
+-DEFINE
+FSDB_FILE=\"CONV.fsdb\"
+-DEFINE
+SDF
+-DEFINE
+SDFFILE=\"/home/alan/ICC_Graduated/hw6_ICC_2019/syn/CONV_syn.sdf\"
